@@ -2,7 +2,7 @@ Awesome Telegram India [![Awesome](https://awesome.re/badge.svg)](https://awesom
 
 > A curated list of awesome Telegram channels and groups related to India.
 
-If you want to contribute to this list (please do), send me a pull request or fill a form here.
+If you want to contribute to this list (please do), send me a pull request or fill a simple form [here](https://forms.gle/9Z16byk2AAU7obYQA).
 
 ## Contents
 - [Tech](#Tech)
@@ -10,7 +10,12 @@ If you want to contribute to this list (please do), send me a pull request or fi
 - [Gaming](#Gaming)
 - [Finance](#Finance)
 - [News](#News)
-- [Privacy](#privacy)
+- [Casual Convo](#Casual Convo)
+- [Cities](#Cities)
+- [Governament](#Governament)
+- [Misc](#Misc)
+
+
 
 
 ## Tech
@@ -18,6 +23,11 @@ If you want to contribute to this list (please do), send me a pull request or fi
 ## Gaming
 ## Finance
 ## News
+## Casual Convo
+## Cities
+## Governament
+## Misc
+
 
 
 ## Contribute
