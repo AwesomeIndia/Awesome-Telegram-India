@@ -1,28 +1,23 @@
-# <%= title %> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+Awesome Telegram India [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> <%= description %>
+> A curated list of awesome Telegram channels and groups related to India.
 
+If you want to contribute to this list (please do), send me a pull request or fill a form here.
 
 ## Contents
-
-- [Section](#section)
-- [Another Section](#another-section)
-
-
-## Section
-
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Tech](#Tech)
+- [Education](#Education)
+- [Gaming](#Gaming)
+- [Finance](#Finance)
+- [News](#News)
+- [Privacy](#privacy)
 
 
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Tech
+## Education
+## Gaming
+## Finance
+## News
 
 
 ## Contribute
